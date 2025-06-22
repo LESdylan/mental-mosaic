@@ -1,11 +1,11 @@
+$$
+\begin{aligned}
+&\text{Binary: } 01100001 \\
+&\text{Decimal: } 97 \\
+&\text{Hexadecimal: } 61 \\
+&\text{Unicode Code Point: } \text{U+0061}
+\end{aligned}
+$$
 
-```handdrawn-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Drawing/2025.6.22 - 18.33pm.drawing",
-	"width": 500,
-	"aspectRatio": 1
-}
-```
 
 
