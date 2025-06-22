@@ -1,0 +1,244 @@
+{
+	"meta": {
+		"pluginVersion": "0.3.4",
+		"tldrawVersion": "2.4.3"
+	},
+	"tldraw": {
+		"document": {
+			"store": {
+				"document:document": {
+					"gridSize": 10,
+					"name": "",
+					"meta": {},
+					"id": "document:document",
+					"typeName": "document"
+				},
+				"page:3qj9EtNgqSCW_6knX2K9_": {
+					"meta": {},
+					"id": "page:3qj9EtNgqSCW_6knX2K9_",
+					"name": "Handwritten Note",
+					"index": "a1",
+					"typeName": "page"
+				},
+				"shape:gwXSEbJMy1yTBIosGJ-K_": {
+					"x": 1253.3333333333335,
+					"y": 401.5104166666667,
+					"rotation": 0,
+					"isLocked": false,
+					"opacity": 1,
+					"meta": {},
+					"id": "shape:gwXSEbJMy1yTBIosGJ-K_",
+					"type": "draw",
+					"props": {
+						"segments": [
+							{
+								"type": "free",
+								"points": [
+									{
+										"x": 0,
+										"y": 0,
+										"z": 0.5
+									},
+									{
+										"x": -3.33,
+										"y": 0,
+										"z": 0.5
+									},
+									{
+										"x": -23.33,
+										"y": 10,
+										"z": 0.5
+									},
+									{
+										"x": -43.33,
+										"y": 16.67,
+										"z": 0.5
+									},
+									{
+										"x": -70,
+										"y": 23.33,
+										"z": 0.5
+									},
+									{
+										"x": -93.33,
+										"y": 26.67,
+										"z": 0.5
+									},
+									{
+										"x": -133.33,
+										"y": 26.67,
+										"z": 0.5
+									},
+									{
+										"x": -156.67,
+										"y": 26.67,
+										"z": 0.5
+									},
+									{
+										"x": -166.67,
+										"y": 20,
+										"z": 0.5
+									},
+									{
+										"x": -170,
+										"y": 20,
+										"z": 0.5
+									},
+									{
+										"x": -170,
+										"y": 16.67,
+										"z": 0.5
+									},
+									{
+										"x": -160,
+										"y": 3.33,
+										"z": 0.5
+									},
+									{
+										"x": -136.67,
+										"y": -23.33,
+										"z": 0.5
+									},
+									{
+										"x": -120,
+										"y": -40,
+										"z": 0.5
+									},
+									{
+										"x": -113.33,
+										"y": -43.33,
+										"z": 0.5
+									},
+									{
+										"x": -110,
+										"y": -43.33,
+										"z": 0.5
+									},
+									{
+										"x": -100,
+										"y": -16.67,
+										"z": 0.5
+									},
+									{
+										"x": -90,
+										"y": 26.67,
+										"z": 0.5
+									},
+									{
+										"x": -86.67,
+										"y": 63.33,
+										"z": 0.5
+									},
+									{
+										"x": -90,
+										"y": 113.33,
+										"z": 0.5
+									},
+									{
+										"x": -110,
+										"y": 153.33,
+										"z": 0.5
+									},
+									{
+										"x": -136.67,
+										"y": 186.67,
+										"z": 0.5
+									},
+									{
+										"x": -180,
+										"y": 223.33,
+										"z": 0.5
+									},
+									{
+										"x": -243.33,
+										"y": 270,
+										"z": 0.5
+									},
+									{
+										"x": -286.67,
+										"y": 293.33,
+										"z": 0.5
+									},
+									{
+										"x": -313.33,
+										"y": 306.67,
+										"z": 0.5
+									},
+									{
+										"x": -326.67,
+										"y": 310,
+										"z": 0.5
+									}
+								]
+							}
+						],
+						"color": "black",
+						"fill": "none",
+						"dash": "draw",
+						"size": "m",
+						"isComplete": true,
+						"isClosed": false,
+						"isPen": false,
+						"scale": 1
+					},
+					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+					"index": "a1",
+					"typeName": "shape"
+				}
+			},
+			"schema": {
+				"schemaVersion": 2,
+				"sequences": {
+					"com.tldraw.store": 4,
+					"com.tldraw.asset": 1,
+					"com.tldraw.camera": 1,
+					"com.tldraw.document": 2,
+					"com.tldraw.instance": 25,
+					"com.tldraw.instance_page_state": 5,
+					"com.tldraw.page": 1,
+					"com.tldraw.instance_presence": 5,
+					"com.tldraw.pointer": 1,
+					"com.tldraw.shape": 4,
+					"com.tldraw.asset.bookmark": 2,
+					"com.tldraw.asset.image": 5,
+					"com.tldraw.asset.video": 5,
+					"com.tldraw.shape.group": 0,
+					"com.tldraw.shape.text": 2,
+					"com.tldraw.shape.bookmark": 2,
+					"com.tldraw.shape.draw": 2,
+					"com.tldraw.shape.geo": 9,
+					"com.tldraw.shape.note": 7,
+					"com.tldraw.shape.line": 5,
+					"com.tldraw.shape.frame": 0,
+					"com.tldraw.shape.arrow": 5,
+					"com.tldraw.shape.highlight": 1,
+					"com.tldraw.shape.embed": 4,
+					"com.tldraw.shape.image": 4,
+					"com.tldraw.shape.video": 2
+				}
+			}
+		},
+		"session": {
+			"version": 0,
+			"currentPageId": "page:3qj9EtNgqSCW_6knX2K9_",
+			"exportBackground": true,
+			"isFocusMode": false,
+			"isDebugMode": true,
+			"isToolLocked": false,
+			"isGridMode": true,
+			"pageStates": [
+				{
+					"pageId": "page:3qj9EtNgqSCW_6knX2K9_",
+					"camera": {
+						"x": 0,
+						"y": 0,
+						"z": 0.3
+					},
+					"selectedShapeIds": [],
+					"focusedGroupId": null
+				}
+			]
+		}
+	},
+	"previewUri": "<svg xmlns=\"http://www.w3.org/2000/svg\" direction=\"ltr\" width=\"346.6700000000001\" height=\"366.56601917802914\" viewBox=\"916.6633333333334 354.9443974886376 346.6700000000001 366.56601917802914\" stroke-linecap=\"round\" stroke-linejoin=\"round\" style=\"background-color: transparent;\"><defs/><g transform=\"matrix(1, 0, 0, 1, 1253.3333, 401.5104)\" opacity=\"1\"><g transform=\"scale(1)\"><path d=\"M1.1841,2.7625 T-4.1991,4.8934 -17.142,9.6932 -34.9392,15.3174 -56.1031,20.6293 -82.1826,24.2636 -110.8627,26.2174 -134.1654,25.7274 -149.9214,23.9249 -159.9577,21.1932 -163.4761,15.3886 -157.2029,3.2836 -144.5705,-13.3552 -132.3721,-26.866 -122.228,-34.9624 -113.1102,-33.2118 -104.081,-16.014 -96.0379,11.8008 -91.72,46.7414 -94.7184,86.4827 -107.0683,125.0262 -129.8706,162.095 -166.7008,201.339 -211.1091,238.6547 -251.2477,267.3147 -282.2368,286.7209 -310.4819,302.7792 -325.8188,311.4974 A1.7224,1.7224 0 0 1 -327.5212,308.5026 T-312.1844,299.7843 -284.044,283.7903 -253.239,264.5045 -213.315,236.0129 -169.2259,199.0087 -132.7915,160.3116 -110.3225,123.9567 -98.1294,86.2064 -95.1326,47.178 -99.3501,12.7623 -106.9971,-14.2743 -115.6363,-30.8476 -122.2326,-32.4998 -129.8009,-24.504 -141.7796,-11.2248 -154.0262,4.618 -159.9569,15.9012 -157.9706,19.5602 -149.5057,20.2513 -134.0433,21.9495 -111.133,22.3035 -82.8095,20.2178 -57.1967,16.4264 -36.4235,10.888 -19.0423,4.949 -6.4393,-0.3334 -1.1841,-2.7625 A3.0056,3.0056 0 0 1 1.1841,2.7625 Z\" stroke-linecap=\"round\" fill=\"#f2f2f2\"/></g></g></svg>"
+}

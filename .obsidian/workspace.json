@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "8b48633cfca17bae",
+        "id": "c3150f780c9af02f",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc801b90d905c3c",
+            "id": "cd57574b8c99aa65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daemon/What is a daemon _.md",
+                "file": "impots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a daemon _"
+              "title": "impots"
+            }
+          },
+          {
+            "id": "f21603ecede5c89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "convert bin to hex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "convert bin to hex"
+            }
+          },
+          {
+            "id": "f941291810b75dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conv hex to unicode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conv hex to unicode"
+            }
+          },
+          {
+            "id": "2574334de7e9d8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conv bin to decimal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conv bin to decimal"
+            }
+          },
+          {
+            "id": "6e33554ead2b8f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decimal conversion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decimal conversion"
+            }
+          },
+          {
+            "id": "d0d518e5beadc5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conv bin to decimal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conv bin to decimal"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,13 +218,33 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5a09a1483eccacac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "40f2429b5efc8c81",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 937.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,24 +253,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dbc801b90d905c3c",
+  "active": "d0d518e5beadc5e1",
   "lastOpenFiles": [
-    "pattern/factory pattern.md",
-    "parser/exalidraw_parser/parse_map_gnl.md",
-    "parser/README/get_next_line parser  + split.md",
-    "parser/README/parse dyn_buf_parser.md",
-    "parser/README/parse_chunk.md",
-    "parser/README/parse_mmap.md",
-    "parser/README/parser_gnl_techniques.md",
-    "parser/README/two pass parser.md",
-    "Daemon/What is a daemon _.md",
-    "crash log from  18 june.md",
-    "error segfault.md",
-    "FDF.md",
+    "Ink/Drawing/2025.6.22 - 18.36pm.drawing",
+    "Ink/Drawing/2025.6.22 - 18.33pm (2).drawing",
+    "conv hexadecimal to bin.md",
+    "conv hex to unicode.md",
+    "Ink/Drawing/2025.6.22 - 18.33pm.drawing",
+    "conv bin to decimal.md",
+    "Excalidraw/Decimal conversion 2025-06-22 18.26.55.excalidraw.md",
+    "Decimal conversion.md",
+    "Ink/Drawing/2025.6.22 - 18.26pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "convert bin to hex.md",
+    "impots.md",
+    "Excalidraw/Drawing 2025-06-20 17.49.47.excalidraw.md",
+    "minitalk.md",
+    "huffman Algorithm.md",
+    "cmd/process command.md",
+    "Untitled.md",
+    "pomodoro/pomodoro project using only c++.md",
+    "Untitled 1.md",
+    "data structure/vector or dynamic array",
+    "data structure",
+    "Excalidraw/huffman algo.md",
+    "pid.md",
     "RAII (ressource acquisition is initialization).md",
-    "README.md"
+    "README.md",
+    "routing key.md",
+    "server.md",
+    "Smart pointers.md",
+    "sound or interface that uses sound isssues.md",
+    "struct design In CPP.md",
+    "transmission bit message from minitalk.md",
+    "cmd",
+    "crash log from  18 june.md"
   ]
 }
