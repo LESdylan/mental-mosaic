@@ -11,13 +11,140 @@
             "id": "622b235a595da8f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "what the need of UNICODE ?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "what the need of UNICODE ?"
+            }
+          },
+          {
+            "id": "4a60db8c2808dd68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "minitalk"
+            }
+          },
+          {
+            "id": "a0a7e7dae26db8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal transmission reliability fixed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "signal transmission reliability fixed"
+            }
+          },
+          {
+            "id": "7a3339a4604a6c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "checksum error analysis and fixes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "checksum error analysis and fixes"
+            }
+          },
+          {
+            "id": "4eb75faeeed03d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk large message issues analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "minitalk large message issues analysis"
+            }
+          },
+          {
+            "id": "f40e861f05975c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ack protocol or shake hand protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ack protocol or shake hand protocol"
+            }
+          },
+          {
+            "id": "b47a3f32be6e994b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "signal"
+            }
+          },
+          {
+            "id": "30e42857237fe7a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "server"
+            }
+          },
+          {
+            "id": "3583bd33575b3a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "signal"
+            }
+          },
+          {
+            "id": "fd91aa4373848864",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -184,8 +311,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "622b235a595da8f4",
+  "active": "fd91aa4373848864",
   "lastOpenFiles": [
+    "signal.md",
+    "signal transmission reliability fixed.md",
+    "singleton.md",
+    "server.md",
+    "Untitled 2.md",
+    "ack protocol or shake hand protocol.md",
+    "minitalk large message issues analysis.md",
+    "checksum error analysis and fixes.md",
+    "minitalk.md",
+    "pid.md",
+    "hashmap.md",
+    "what the need of UNICODE ?.md",
     "conv hex to unicode.md",
     "convert byte into unicode.md",
     "conv bin to decimal.md",
@@ -204,22 +343,11 @@
     "Ink/Drawing",
     "Ink",
     "Excalidraw/Drawing 2025-06-20 17.49.47.excalidraw.md",
-    "minitalk.md",
     "huffman Algorithm.md",
     "cmd/process command.md",
     "Untitled.md",
     "pomodoro/pomodoro project using only c++.md",
-    "Untitled 1.md",
     "data structure/vector or dynamic array",
-    "data structure",
-    "Excalidraw/huffman algo.md",
-    "pid.md",
-    "RAII (ressource acquisition is initialization).md",
-    "README.md",
-    "routing key.md",
-    "server.md",
-    "Smart pointers.md",
-    "sound or interface that uses sound isssues.md",
-    "struct design In CPP.md"
+    "data structure"
   ]
 }

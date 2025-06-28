@@ -75,3 +75,84 @@ instead of acknowledging every bit, acknowledge every character or every N chara
 
 ## Huffman compression
 ![[huffman algo]]
+
+# batch bit
+batch bit for faster transmission while keeping huffman protocol and checksum logic
+1. pack bits into bytes on teh client side before sending
+2. send each byte using 8 signals 
+3. unpack bits on the server side to reconstruct the bitstream for huffman decoding and checksum calculation
+
+```c
+// Packs a string of '0'/'1' bits into bytes, returns number of bytes
+int pack_bits(const char *bitstr, unsigned char *out) {
+    int len = strlen(bitstr);
+    int byte_count = (len + 7) / 8;
+    for (int i = 0; i < byte_count; i++) {
+        out[i] = 0;
+        for (int b = 0; b < 8; b++) {
+            int idx = i * 8 + b;
+            if (idx < len && bitstr[idx] == '1')
+                out[i] |= (1 << (7 - b));
+        }
+    }
+    return byte_count;
+}
+```
+
+
+```c
+unsigned char packed[1250]; // 10000 bits max / 8 + some margin
+
+int packed_len = pack_bits(ctx.encoded, packed);
+
+for (i = 0; i < packed_len; i++) {
+
+for (int b = 7; b >= 0; b--) {
+
+char bit_char = ((packed[i] >> b) & 1) ? '1' : '0';
+
+send_bit(server_pid, bit_char);
+
+}
+
+}
+```
+
+Thank you for clarifying! If you are limited to standard UNIX signals (SIGUSR1/SIGUSR2), you cannot send a full byte in a single signal—only a single bit per signal is possible. This is a fundamental limitation of the UNIX signal API: each signal can only represent one of two states (SIGUSR1 or SIGUSR2), not a value from 0–255.
+
+**Summary:**
+
+- With only SIGUSR1/SIGUSR2, you can only send one bit per signal.
+- Packing bits into bytes is only useful for memory efficiency, not for transmission speed, unless you can use signals with payloads (which you cannot).
+
+**What you have now is optimal for your constraints:**
+
+- You are sending one bit per signal, as fast as possible.
+- The only way to go faster is to reduce the delay (`usleep`) or use a different IPC mechanism (like sockets or shared memory), which is outside the scope of UNIX signals.
+
+**If you want to further optimize:**
+
+- Tune the `usleep` value for your system.
+- Optionally, implement an ACK mechanism so the client only sends the next bit after the server processes the previous one (to avoid lost signals at very high speed).
+
+If you need help with ACK-based flow control or further tuning, let me know!
+
+- 
+- 
+- 
+
+3 files changed
+
+KeepUndo
+
+huff_encode.ccipher-vault/huffman
+
+minitalk_client.ccipher-vault/huffman
+
+minitalk_server.ccipher-vault/huffman
+
+- Add Context...
+
+minitalk_client.c:5-24
+
+Current file
