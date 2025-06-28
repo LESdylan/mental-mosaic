@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Typomagical",
+  "accentColor": "#338058",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

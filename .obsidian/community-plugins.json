@@ -6,5 +6,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-linter",
   "dataview",
-  "ink"
+  "ink",
+  "theme-picker",
+  "make-md"
 ]
