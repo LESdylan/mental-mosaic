@@ -4,137 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12baff7e21c2c290",
+        "id": "db751612542cba85",
         "type": "tabs",
         "children": [
           {
-            "id": "622b235a595da8f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what the need of UNICODE ?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what the need of UNICODE ?"
-            }
-          },
-          {
-            "id": "4a60db8c2808dd68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "minitalk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "minitalk"
-            }
-          },
-          {
-            "id": "a0a7e7dae26db8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "signal transmission reliability fixed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "signal transmission reliability fixed"
-            }
-          },
-          {
-            "id": "7a3339a4604a6c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "checksum error analysis and fixes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "checksum error analysis and fixes"
-            }
-          },
-          {
-            "id": "4eb75faeeed03d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "minitalk large message issues analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "minitalk large message issues analysis"
-            }
-          },
-          {
-            "id": "f40e861f05975c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ack protocol or shake hand protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ack protocol or shake hand protocol"
-            }
-          },
-          {
-            "id": "b47a3f32be6e994b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/signal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "signal"
-            }
-          },
-          {
-            "id": "30e42857237fe7a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "server"
-            }
-          },
-          {
-            "id": "3583bd33575b3a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/signal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "signal"
-            }
-          },
-          {
-            "id": "fd91aa4373848864",
+            "id": "f75a3da04a993e06",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -144,129 +18,7 @@
             }
           },
           {
-            "id": "3ca4434db3078653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pattern/ack protocol or shake hand protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ack protocol or shake hand protocol"
-            }
-          },
-          {
-            "id": "2ea88c307a0305ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pattern/factory pattern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "factory pattern"
-            }
-          },
-          {
-            "id": "98236ac5e63d07d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pattern/lazy initialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lazy initialization"
-            }
-          },
-          {
-            "id": "4c1f8613653f35c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pattern/Finite State Machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finite State Machine"
-            }
-          },
-          {
-            "id": "788f6691226c6054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Computer Science/decimal to hexadecimal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "decimal to hexadecimal"
-            }
-          },
-          {
-            "id": "dd5eb74756dd78bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "READMES/FDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FDF"
-            }
-          },
-          {
-            "id": "7cecc8750b848502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "second-brain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "second-brain"
-            }
-          },
-          {
-            "id": "d46303bbe244f878",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "da79e176d6a62c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/ISR (Interrupt Service Routine).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ISR (Interrupt Service Routine)"
-            }
-          },
-          {
-            "id": "13e7eebd8094197b",
+            "id": "9538d05a91de6861",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -280,379 +32,103 @@
             }
           },
           {
-            "id": "cf54aad721705bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructures/hashmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hashmap"
-            }
-          },
-          {
-            "id": "0134d4c7fd803b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/naming branches.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "naming branches"
-            }
-          },
-          {
-            "id": "b3efe3c1c41fda1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Basic git commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic git commands"
-            }
-          },
-          {
-            "id": "b0ee4daac7b498cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/git's history.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git's history"
-            }
-          },
-          {
-            "id": "41f2177c6eebcc47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "philosophy of gf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "philosophy of gf"
-            }
-          },
-          {
-            "id": "86265ae16250e5e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/versions working manner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "versions working manner"
-            }
-          },
-          {
-            "id": "3efa3a8bdefa26b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/versions working manner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "versions working manner"
-            }
-          },
-          {
-            "id": "079cf3ceef9211d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/git good practices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git good practices"
-            }
-          },
-          {
-            "id": "6a78812c542f1ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/relink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "relink"
-            }
-          },
-          {
-            "id": "e919e5ad3405b2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/what name give to a makefile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what name give to a makefile"
-            }
-          },
-          {
-            "id": "460603ef3cceb187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/Makefile's content.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Makefile's content"
-            }
-          },
-          {
-            "id": "05aed705f594bcb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/recompilation automicatic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "recompilation automicatic"
-            }
-          },
-          {
-            "id": "a9fd3f876c5c13a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/Source other Makefiles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Source other Makefiles"
-            }
-          },
-          {
-            "id": "dd8f7c51ba1a4e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/Variable Makefile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variable Makefile"
-            }
-          },
-          {
-            "id": "1ee964f67d8d41e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/Makefile Parsing System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Makefile Parsing System"
-            }
-          },
-          {
-            "id": "fa5257ba6c6e55a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/from bad to good design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "from bad to good design"
-            }
-          },
-          {
-            "id": "7d71c645b5dc9aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/history system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "history system"
-            }
-          },
-          {
-            "id": "92ccbb5cad9d37dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/command lists not exhaustive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "command lists not exhaustive"
-            }
-          },
-          {
-            "id": "c14d6ce50d42a071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/command process management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "command process management"
-            }
-          },
-          {
-            "id": "bbb3686d7c1e8b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/networking command.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "networking command"
-            }
-          },
-          {
-            "id": "5fb47062a1c23f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/valgrind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "valgrind"
-            }
-          },
-          {
-            "id": "a65bf47db126567c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/more info.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "more info"
-            }
-          },
-          {
-            "id": "7fff792fa1d67974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "presentation"
-            }
-          },
-          {
-            "id": "e149d751ca7d4308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/suite tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "suite tools"
-            }
-          },
-          {
-            "id": "bced2afc8c7c1e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/advice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "advice"
-            }
-          },
-          {
-            "id": "1c251180a12339e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "117d7095361be2c1",
+            "id": "0ec05c5e6bb4498c",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Tags"
+                "path": "pattern"
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "pattern"
+            }
+          },
+          {
+            "id": "dcce38d99c8f23d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Solving Approach/Greedy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greedy"
+            }
+          },
+          {
+            "id": "9f403666d9445425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Ack protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ack protocol"
+            }
+          },
+          {
+            "id": "59454d53113a6468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sockets signals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sockets signals"
+            }
+          },
+          {
+            "id": "f363333ed269abe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "queued signals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "queued signals"
+            }
+          },
+          {
+            "id": "a0ab57944bc974af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REAL TIME SIGNALS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REAL TIME SIGNALS"
+            }
+          },
+          {
+            "id": "47a983614b1f538a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pipes PROTOCOL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pipes PROTOCOL"
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -706,7 +182,7 @@
             }
           },
           {
-            "id": "4fdd052da68c1235",
+            "id": "4270df7b53e1a2e7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -715,7 +191,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -814,7 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 901.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -829,35 +306,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1c251180a12339e4",
+  "active": "9f403666d9445425",
   "lastOpenFiles": [
-    "system/valgrind.md",
-    "system/more info.md",
-    "system/output valgrind example.md",
-    "system/advice.md",
-    "system/suite tools.md",
-    "system/presentation.md",
-    "system/networking command.md",
-    "system/command process management.md",
-    "system/command lists not exhaustive.md",
-    "system/history system.md",
-    "Makefile/from bad to good design.md",
-    "Makefile/Makefile Parsing System.md",
-    "Makefile/Variable Makefile.md",
-    "Makefile/Source other Makefiles.md",
-    "Makefile/recompilation automicatic.md",
-    "Makefile/Makefile's content.md",
-    "Makefile/what name give to a makefile.md",
-    "Makefile/relink.md",
-    "Git/git good practices.md",
+    "sockets signals.md",
+    "Algorithms/Ack protocol.md",
+    "queued signals.md",
+    "REAL TIME SIGNALS.md",
+    "pipes PROTOCOL.md",
+    "like sockets.md",
+    "Algorithms/.md",
+    "Algorithms/cipher.md",
+    "Algorithms/binary search tree.md",
+    "Algorithms/Coin change.md",
+    "Algorithms/Dijkstra.md",
+    "Algorithms/tree sort.md",
+    "Computer science generalities/SIMD instructions.md",
+    "system/Untitled 18.md",
+    "system/Untitled 16.md",
+    "system/Untitled 17.md",
+    "system/RAM (Random Access Memory).md",
+    "system/RAII (ressource acquisition is initialization).md",
+    "system/EFI.md",
+    "system/Device Management.md",
+    "system/Ascii art.md",
+    "system/system.md",
+    "struct design In CPP.md",
+    "Problem Solving Approach/backtracking.md",
+    "Problem Solving Approach/Greedy.md",
+    "pomodoro/pomodoro project using only c++.md",
+    "Problem Solving Approach",
     "Makefile",
-    "Git/versions working manner.md",
-    "Git/Basic git commands.md",
-    "Git/naming branches.md",
-    "Git/context scenario bug.md",
-    "philosophy of gf.md",
-    "Git/git's history.md",
-    "DataStructures/hashmap.md",
     "Git",
     "Render",
     "Computer science generalities",
@@ -868,7 +346,6 @@
     "workflow",
     "READMES",
     "Algorithms",
-    "Math Computer Science",
-    "logs error"
+    "Math Computer Science"
   ]
 }
