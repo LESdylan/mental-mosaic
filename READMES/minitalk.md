@@ -141,18 +141,49 @@ If you need help with ACK-based flow control or further tuning, let me know!
 - 
 - 
 
-3 files changed
+- [] error from the init client because we don't handle the parameters
+ # Explain the bit logic:
 
-KeepUndo
 
-huff_encode.ccipher-vault/huffman
+> for instance we will take 'hi' as an example
 
-minitalk_client.ccipher-vault/huffman
+h = 104 = 0110 1000
+i = 105 = 0110 1001
 
-minitalk_server.ccipher-vault/huffman
+1. h process as byte
+	1. the byte is cut into 8 bits that we will use to loop through the sequence
+	2. to get the bit from char, we use the [[conv bin to decimal]] logic
+	3. value = (105)c
+	4. divisor = 1
+	5. we use the mathematical application of `Binary expansion Theorem`: 
+	   `bitk​=⌊(value/2k)⌋mod2`
+	   every integer has a representation as sum of powers of 2
+	   any integer `n` can be written as :
+	   `n = a₀·2⁰ + a₁·2¹ + a₂·2² + ... + aₖ·2ᵏ` where each `aᵢ ∈ {0,1}`
+	6. this mathematical version equivalent to `bit_k = (n >> k) & 1`
 
-- Add Context...
+#### 'h' 
 
-minitalk_client.c:5-24
+| bit_index | divisor = 2^k | 104/divisor | mod 2 = bit |
+| --------- | ------------- | ----------- | ----------- |
+| 0         | 1             | 104         | 0           |
+| 1         | 2             | 52          | 0           |
+| 2         | 4             | 26          | 0           |
+| 3         | 8             | 13          | 1           |
+| 4         | 16            | 6           | 0           |
+| 5         | 32            | 3           | 1           |
+| 6         | 64            | 1           | 1           |
+| 7         | 128           | 0           | 0           |
 
-Current file
+#### 'I'
+
+| bit_index | divisor = 2^k | 105/divisor | mod 2 = bit |
+| --------- | ------------- | ----------- | ----------- |
+| 0         | 1             | 105         | 1           |
+| 1         | 2             | 52          | 0           |
+| 2         | 4             | 26          | 0           |
+| 3         | 8             | 13          | 1           |
+| 4         | 16            | 6           | 0           |
+| 5         | 32            | 3           | 1           |
+| 6         | 64            | 1           | 1           |
+| 7         | 128           | 0           | 0           |

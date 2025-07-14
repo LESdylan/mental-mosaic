@@ -7,7 +7,7 @@ However in practice with UNIX signals (SIGUSR1/SIGUSR2):
 - the protocol is only as reliable as the underlying mechanism (here UNIX-signals) which is not designed for high-reliability data transfer
 
 for true reliability we need mechanisms that guarantees delivery and queuing `like sockets, pipes, or real-time signals`
-in [[minitalk]] make the signals exchange utterly reliable is impossible based on UNIX system and 42 school requirements. we have to make it as best as we can. that's it
+in [[READMES/minitalk]] make the signals exchange utterly reliable is impossible based on UNIX system and 42 school requirements. we have to make it as best as we can. that's it
 
 [[like sockets]]
 [[pipes PROTOCOL]]

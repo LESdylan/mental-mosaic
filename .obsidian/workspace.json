@@ -4,131 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "db751612542cba85",
+        "id": "aea9ed0e1ddb8504",
         "type": "tabs",
         "children": [
           {
-            "id": "f75a3da04a993e06",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9538d05a91de6861",
+            "id": "ae65b3f453741f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Render/sprites.md",
+                "file": "system/signal transmission reliability fixed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sprites"
+              "title": "signal transmission reliability fixed"
             }
           },
           {
-            "id": "0ec05c5e6bb4498c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "pattern"
-              },
-              "icon": "lucide-file",
-              "title": "pattern"
-            }
-          },
-          {
-            "id": "dcce38d99c8f23d9",
+            "id": "cff31c36ee34a017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving Approach/Greedy.md",
+                "file": "projects/!! First Unresolvable Project  Minitalk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greedy"
+              "title": "!! First Unresolvable Project  Minitalk"
             }
           },
           {
-            "id": "9f403666d9445425",
+            "id": "7ea76cee1a174435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Ack protocol.md",
+                "file": "projects/!! First Unresolvable Project  Minitalk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ack protocol"
+              "title": "!! First Unresolvable Project  Minitalk"
             }
           },
           {
-            "id": "59454d53113a6468",
+            "id": "2b93067a07707f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sockets signals.md",
+                "file": "PUSH_SWAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sockets signals"
-            }
-          },
-          {
-            "id": "f363333ed269abe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "queued signals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "queued signals"
-            }
-          },
-          {
-            "id": "a0ab57944bc974af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REAL TIME SIGNALS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REAL TIME SIGNALS"
-            }
-          },
-          {
-            "id": "47a983614b1f538a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pipes PROTOCOL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pipes PROTOCOL"
+              "title": "PUSH_SWAP"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,8 +96,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "minitalk",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -182,7 +118,7 @@
             }
           },
           {
-            "id": "4270df7b53e1a2e7",
+            "id": "ebcb2a235f467459",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -191,12 +127,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cd18e6159871c6c8",
@@ -272,8 +207,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -291,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 901.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,13 +241,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f403666d9445425",
+  "active": "2b93067a07707f55",
   "lastOpenFiles": [
-    "sockets signals.md",
+    "projects/!! First Unresolvable Project  Minitalk.md",
+    "PUSH_SWAP.md",
+    "memory barrier.md",
+    "system/signal transmission reliability fixed.md",
+    "system/signal.md",
+    "crash_system_log/minitalk large message issues analysis.md",
+    "crash_system_log/checksum error analysis and fixes.md",
     "Algorithms/Ack protocol.md",
-    "queued signals.md",
-    "REAL TIME SIGNALS.md",
+    "projects",
     "pipes PROTOCOL.md",
+    "REAL TIME SIGNALS.md",
+    "queued signals.md",
+    "READMES/minitalk.md",
+    "Tags",
+    "sockets signals.md",
     "like sockets.md",
     "Algorithms/.md",
     "Algorithms/cipher.md",
@@ -326,26 +271,16 @@
     "system/Untitled 17.md",
     "system/RAM (Random Access Memory).md",
     "system/RAII (ressource acquisition is initialization).md",
-    "system/EFI.md",
-    "system/Device Management.md",
-    "system/Ascii art.md",
-    "system/system.md",
-    "struct design In CPP.md",
-    "Problem Solving Approach/backtracking.md",
-    "Problem Solving Approach/Greedy.md",
-    "pomodoro/pomodoro project using only c++.md",
     "Problem Solving Approach",
     "Makefile",
     "Git",
     "Render",
     "Computer science generalities",
-    "Untitled",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "workflow",
     "READMES",
-    "Algorithms",
-    "Math Computer Science"
+    "Algorithms"
   ]
 }
