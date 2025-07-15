@@ -37,7 +37,14 @@
   "showRibbon": true,
   "vaultSelector": true,
   "deleteFileOption": "trash",
-  "expandedSpaces": [],
+  "expandedSpaces": [
+    "/",
+    "//libft",
+    "//cmd",
+    "//Tags",
+    "//projects",
+    "//Excalidraw"
+  ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],

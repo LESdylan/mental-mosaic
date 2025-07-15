@@ -295,4 +295,4 @@ You're now fully equipped to:
 - 🧱 Build clean, solid Obsidian notes
     
 
-Wanna take it up with diagrams next? Or build a table generator for practice conversions?![[Decimal conversion 2025-06-22 18.26.55.excalidraw]]
+Wanna take it up with diagrams next? Or build a table generator for practice conversions?![[representation byte terminal]]
