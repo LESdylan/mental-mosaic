@@ -40,7 +40,7 @@ Imagine a mailroom with thousands of mailboxes.
 ## process of transmission of information
 The transmission
 
-![[Drawing 2025-06-20 17.49.47.excalidraw]]
+![[send bit server]]
 
 > Acknoledgement system:
 > for each bit sent, 

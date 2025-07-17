@@ -612,6 +612,7 @@ using `volatile sig_atomic_t` for the signal flag
 - server send ACK back to client for each bit
 - Clients wait for ACK before sending next bit
 - Timeout and retry mechanism
+- Ownership is a synchronization mechanism that ensures only one client at a time can send data to the server, preventing race conditions and data corruption.
 ##### 3. Signal-safe functions only:
 `man signal-safety`
 ##### 4. Proper signal blocking
@@ -734,3 +735,34 @@ and ensure hadnler complete wihtout interruption
 - simpler code with fewr potential race conditions
 - Automatic signal blocking during crtitical operations
 - no need to manage signal masks manually
+
+
+![[server state machine]]
+
+## client owns the transmission slot of it
+the ownership is needed to prevent multiplle clients from sending data at the same time, which woud corrupt the communication. 
+To ensure only one client can send its message, and others must wait until  the slot is free.
+
+to check the ownership we compare the client's pid to current_client_pid and check the `transmission active`
+if a client does not own the slot, it must wait until the slot if free.
+
+![[send bit server]]
+
+![[huffman algo]]
+
+ The PID (process ID) is shared between the client and server using UNIX signals and teh siginfo_t structure
+how it works: 
+- clien knows server PID:
+	- the client is started with the server's PID as a command-line argument
+	- this client uses this PID to send signals to the server using `kill(server_pid, SIGNAL)`
+	- `siginfo-t`contains teh sender's PID in the `si_pid` fielld
+	- The server saves teh client's PID in its state (`actual_pid` , `client_pid`)
+	- The cliennt gets the server's  PID from  the user and send signals to it
+	- The server get the client's PID from the signal handler and can reply using signals
+
+### transmission active if  anew client tries to connect 
+while another is active the server rejects the connection (sends a busy signal)
+There s no queuing acive or storing the waiting list clients. only one cient can transmit, and others must retry or wait externally
+
+
+![[machine communication]]

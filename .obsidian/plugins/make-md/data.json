@@ -38,12 +38,12 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//libft",
     "//cmd",
     "//Tags",
     "//projects",
-    "//Excalidraw"
+    "//Problem Solving Approach",
+    "/",
+    "//videos"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
