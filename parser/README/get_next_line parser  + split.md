@@ -1,4 +1,4 @@
-the parser of the combination of splitting each word on a buffer line retrieved by a function has been introduced in the context of [[FDF]]
+the parser of the combination of splitting each word on a buffer line retrieved by a function has been introduced in the context of [[READMES/FDF]]
 
 # Core concept to understand before startng
 - how do we define a word ?
