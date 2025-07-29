@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4fc11ef1b44a274",
+        "id": "28f7121ef8bfcbaf",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7b6fb4725f60f1",
+            "id": "3826d990841fa60e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "b71ac4cba232cbf7",
+            "id": "d8b01c2e6a0ad217",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -177,13 +177,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f3dc718acaf06670",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,18 +205,42 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bd7b6fb4725f60f1",
+  "active": "3826d990841fa60e",
   "lastOpenFiles": [
-    "parser/README/parse_chunk.md",
-    "Excalidraw/parse_chunk fdf.md",
-    "Untitled.md",
-    "projects/lightweight framework capturing exceptions in C.md",
-    "projects/FDF.md",
-    "projects/!! First Unresolvable Project  Minitalk.md",
-    "Summer  Challenge 2025.md",
+    "Tags/42.md",
+    "system/RAII (ressource acquisition is initialization).md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "k_sort.md",
+    "chunk_sort.md",
+    "partition_sort.md",
+    "PUSH_SWAP.md",
+    "projects/Push swap project of sorting two stacks.md",
+    "pivot_sort.md",
+    "Tags/languages.md",
+    "Tags/Studi.md",
+    "Tags/English.md",
+    "Tags/API.md",
+    "Tags/general Programing language.md",
+    "Pasted image 20250729200655.png",
+    "Pasted image 20250724133053.png",
+    ".md",
     "projects/Untitled",
     "Pasted image 20250724133817.png",
     "Pasted image 20250724133804.png",
@@ -214,36 +248,14 @@
     "Pasted image 20250724133750.png",
     "Pasted image 20250724133741.png",
     "Pasted image 20250724133407.png",
-    "Pasted image 20250724133053.png",
     "Challenges/coding  games",
     "Challenges",
-    "Excalidraw/data migration facility.md",
-    "Excalidraw/level of depth and complexity recursive.md",
-    "Excalidraw/Drawing 2025-07-20 19.26.13.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-20 21.42.05.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-22 08.09.46.excalidraw.md",
-    "projects/Push swap project of sorting two stacks.md",
-    "Problem Solving Approach/backtracking.md",
-    "pruning.md",
-    "Excalidraw/radix_sort.md",
-    "Excalidraw/permutations_state.md",
-    "Excalidraw/Drawing 2025-07-17 13.18.56.excalidraw.md",
     "videos/test.webp",
-    "Excalidraw/Drawing 2025-07-16 23.24.33.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-20 14.38.34.excalidraw.md",
-    "Problem Solving Approach/Greedy.md",
-    "projects/Untitled.md",
-    "videos/videos.md",
-    "Untitled 1.md",
     "videos",
-    "libft/libft.md",
-    "Excalidraw/minitalk project idea.md",
     "projects",
     "Tags",
     "Problem Solving Approach",
     "Makefile",
-    "Git",
-    "Render",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

@@ -47,3 +47,5 @@ make visual_checker && \
 RUN=$(seq 1 <max> | shuf) ; ./push_swap $RUN | ./checker $RUN run the visualizer to see the behavior of each command from the two stack. really useful to detect innefficiency. 
 ```
 
+
+[cd]

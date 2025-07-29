@@ -127,7 +127,7 @@ Your claim that the school's restriction to use only signal() or sigaction witho
     - **sigprocmask()**: Allows blocking/unblocking signals to prevent them from interrupting critical sections of code, avoiding race conditions.
     - **sigsuspend()**: Atomically sets a signal mask and suspends the process until a signal is received, avoiding the race condition in the if (!signal_received) { pause(); } pattern.
     - **signalfd()**: Provides a file descriptor-based interface for handling signals, which is more robust for modern applications but not available in all environments (and likely not allowed in 42 projects).
-- **School Constraints**: If the project restricts you to signal() or sigaction without these primitives, it forces you to work with inherently unreliable mechanisms. This aligns with your observation that the project requirements make reliable signal handling "impossible" in some cases, as you cannot fully eliminate race conditions without masking or atomic operations.
+- **School Constraints**: If the project restricts you to signal() or sigaction without these primitives, it forces you to work with inherently unreliable mechanisms. This aligns with your observation that the project requirements make reliable signal handling "impossible" in some cases, as you cannot fully eliminate race conditions without masking or atomic operations.42
 #### 3. Signal Handler Limitations
 
 Your statement about signal handler constraints is **correct**:

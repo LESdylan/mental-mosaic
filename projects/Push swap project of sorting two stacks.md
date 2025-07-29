@@ -670,3 +670,19 @@ After all recursive splits and direct sorts, the stack is sorted:
 ### Acknowledgements
 [javier]()
 [MickeylandgelO]
+
+[[radix_sort]]
+[[k_sort]]
+[[chunk_sort]]
+[[partition_sort]]
+[[pivot_sort]]
+[[sort_greedy]]
+[[tree sort]]
+[[quick sort]]
+[[intro sort]]
+[[intro sort]]
+[[hybrid sort]]
+[[hybrid sort]]
+[[hybrid sort]]
+[[bucket sort]]
+[[bucket sort]]
