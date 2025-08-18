@@ -1,6 +1,6 @@
 ```c
 //singleton accessor
-t_type *get_instance()
+t_type *get_instance(t_type *set)
 {
 	static t_type *instance = NULL;
 
