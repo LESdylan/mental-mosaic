@@ -31,13 +31,12 @@ Return value: `0` on success, `-1` on error (with `errno` set).
 
 struct sigaction
 {     
-	void     (*sa_handler)(int);            // basic handler function     
+	void     (*sa_handler)(int);                                   // basic handler function     
 	void     (*sa_sigaction)(int, siginfo_t *, void *); // advanced handler
-	sigset_t sa_mask;                       // signals to block during handler
-	int      sa_flags;                      // options controlling behavior
-	void     (*sa_restorer)(void);          // obsolete (ignore in practice)
-}
-	;
+	sigset_t sa_mask;                                             // signals to block during handler
+	int      sa_flags;                                                 // options controlling behavior
+	void     (*sa_restorer)(void);                             // obsolete (ignore in practice)
+};
 
 ### Key fields you’ll actually use:
 
