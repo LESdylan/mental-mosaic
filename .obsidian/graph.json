@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "42",
@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "",
+      "query": "minitalk",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "push",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 13.7509377344336,
   "linkStrength": 0.792573143285821,
   "linkDistance": 221,
-  "scale": 0.5696489248996621,
+  "scale": 1.036735615826705,
   "close": false
 }

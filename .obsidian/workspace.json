@@ -11,10 +11,14 @@
             "id": "3826d990841fa60e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Install vscode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Install vscode"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parse_chun",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "d8b01c2e6a0ad217",
+            "id": "15398fa73ba77837",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -164,8 +168,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -184,8 +188,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -197,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,6 +216,9 @@
   },
   "active": "3826d990841fa60e",
   "lastOpenFiles": [
+    "Install vscode.md",
+    "Untitled 2.md",
+    "Untitled",
     "Tags/42.md",
     "system/RAII (ressource acquisition is initialization).md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -236,8 +244,6 @@
     "Tags/languages.md",
     "Tags/Studi.md",
     "Tags/English.md",
-    "Tags/API.md",
-    "Tags/general Programing language.md",
     "Pasted image 20250729200655.png",
     "Pasted image 20250724133053.png",
     ".md",
@@ -255,7 +261,6 @@
     "projects",
     "Tags",
     "Problem Solving Approach",
-    "Makefile",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
