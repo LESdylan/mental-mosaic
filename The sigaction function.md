@@ -55,3 +55,27 @@ struct sigaction
     - Extra options. Common ones:
         - `SA_RESTART` → restart syscalls interrupted by signals.
         - `SA_SIGINFO` → use `sa_sigaction` instead of `sa_handler`.
+
+
+
+```c
+#include <signal.h>
+#include <unistd.h>
+
+void handler(int sig) {
+    (void)sig;
+    write(1, "Caught SIGINT\n", 14);
+}
+
+int main(void) {
+    struct sigaction sa;
+
+    sa.sa_handler = handler;      // custom handler
+    sigemptyset(&sa.sa_mask);     // no signals blocked in handler
+    sa.sa_flags = SA_RESTART;     // restart syscalls if interrupted
+
+    sigaction(SIGINT, &sa, NULL); // install new action for SIGINT
+
+    while (1) pause();            // wait for signals
+}
+```
