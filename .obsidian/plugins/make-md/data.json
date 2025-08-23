@@ -38,17 +38,15 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//cmd",
-    "//Tags",
-    "//projects",
-    "/",
-    "//videos"
+    "group_project42"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "group_project42/minishell.md"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",

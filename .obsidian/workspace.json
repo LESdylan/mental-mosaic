@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "28f7121ef8bfcbaf",
+        "id": "09a20806483a77d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3826d990841fa60e",
+            "id": "f15c7c7d0fbef716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minishell.md",
+                "file": "group_project42/mini-hell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "minishell"
-            }
-          },
-          {
-            "id": "5a7fbfa1bf2e2e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how to create a structure that can easily extend flags with built-ins commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to create a structure that can easily extend flags with built-ins commands"
-            }
-          },
-          {
-            "id": "8d683d4bdec3a9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bin_echo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bin_echo"
-            }
-          },
-          {
-            "id": "199bde2bf537a4bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pattern/singleton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "singleton"
-            }
-          },
-          {
-            "id": "bca6c720a3a232c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "builtins vs system command.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "builtins vs system command"
-            }
-          },
-          {
-            "id": "a12e1143cb189ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "minishell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "minishell"
+              "title": "mini-hell"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parse_chun",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +75,7 @@
             }
           },
           {
-            "id": "5cc7cd19b98c56b3",
+            "id": "086a9cb3297d4956",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -160,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "right": {
     "id": "cd18e6159871c6c8",
@@ -176,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Push swap project of sorting two stacks.md",
+                "file": "Tags/42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Push swap project of sorting two stacks"
+              "title": "Backlinks for 42"
             }
           },
           {
@@ -195,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Push swap project of sorting two stacks.md",
+                "file": "Tags/42.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Push swap project of sorting two stacks"
+              "title": "Outgoing links from 42"
             }
           },
           {
@@ -224,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Push swap project of sorting two stacks.md",
+                "file": "Tags/42.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Push swap project of sorting two stacks"
+              "title": "Outline of 42"
             }
           },
           {
@@ -239,8 +168,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -259,8 +188,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -272,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -284,14 +214,26 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8d683d4bdec3a9a3",
+  "active": "40f2429b5efc8c81",
   "lastOpenFiles": [
-    "minishell.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Vault.md",
+    "Untitled",
+    "group_project42/mini-hell.md",
+    "group_project42/group_project42.md",
+    "group_project42/minishell.md",
+    "group_project42",
     "how to create a structure that can easily extend flags with built-ins commands.md",
     "builtins vs system command.md",
-    "pattern/singleton.md",
+    "system/signal.md",
     "bin_echo.md",
     "bin_cd.md",
+    "Install vscode.md",
+    "Untitled 2.md",
     "Tags/42.md",
     "system/RAII (ressource acquisition is initialization).md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -304,15 +246,7 @@
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "k_sort.md",
-    "chunk_sort.md",
-    "partition_sort.md",
-    "PUSH_SWAP.md",
-    "projects/Push swap project of sorting two stacks.md",
     "Pasted image 20250729200655.png",
     "Pasted image 20250724133053.png",
     ".md",
@@ -327,10 +261,6 @@
     "Challenges",
     "videos/test.webp",
     "videos",
-    "projects",
-    "Tags",
-    "Problem Solving Approach",
-    "Makefile",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
