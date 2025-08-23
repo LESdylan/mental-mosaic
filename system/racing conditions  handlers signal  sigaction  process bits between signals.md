@@ -1,3 +1,7 @@
+---
+aliases:
+  - racing conditions | handlers signal | sigaction | process bits between signals
+---
 SIGUSR1 AND `SIGUSR2` are signal already defined by the system, we cannot redefine them  because they are already defined by the system headers. This causes  a redefinition error. 
 
 

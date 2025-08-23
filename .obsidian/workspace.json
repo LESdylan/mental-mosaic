@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "group_project42/mini-hell.md",
+                "file": "Introduction to signals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mini-hell"
+              "title": "Introduction to signals"
             }
           }
         ]
@@ -214,8 +214,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "40f2429b5efc8c81",
+  "active": "f15c7c7d0fbef716",
   "lastOpenFiles": [
+    "group_project42/mini-hell.md",
+    "Introduction to signals.md",
+    "Excalidraw/relationship sigaction, sigset.md",
+    "system/racing conditions  handlers signal  sigaction  process bits between signals.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
@@ -223,13 +227,11 @@
     "Untitled 3.md",
     "Vault.md",
     "Untitled",
-    "group_project42/mini-hell.md",
     "group_project42/group_project42.md",
     "group_project42/minishell.md",
     "group_project42",
     "how to create a structure that can easily extend flags with built-ins commands.md",
     "builtins vs system command.md",
-    "system/signal.md",
     "bin_echo.md",
     "bin_cd.md",
     "Install vscode.md",
@@ -245,7 +247,6 @@
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
     "Pasted image 20250729200655.png",
     "Pasted image 20250724133053.png",
@@ -260,7 +261,6 @@
     "Challenges/coding  games",
     "Challenges",
     "videos/test.webp",
-    "videos",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
