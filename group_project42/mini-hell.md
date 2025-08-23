@@ -15,6 +15,5 @@ sticker: emoji//1f479
 [[Signal delivery]]
 [[Default signal actions]]
 [[The sigaction function]]
-
-
-
+[[Disposition vs Mask vs Pending]]
+[[sig_atomic_t type]]

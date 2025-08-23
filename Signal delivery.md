@@ -10,7 +10,7 @@ The **process** that receives the signal can react in one of three ways:
 
 
 ## Examples
-### 1. Default action (terminate with `SIGINT`)  
+### 1. Default action (terminate with [[SIGINT]])  
 ```c
 #include <signal.h>
 #include <unistd.h>
@@ -27,7 +27,7 @@ int main(void) {
 }
 
     ```
-### 2. Ignore signal (`SIGINT`)  
+### 2. Ignore signal ([[SIGINT]])  
 ```c
 #include <signal.h>
 #include <unistd.h>
@@ -44,7 +44,7 @@ int main(void) {
 }
 ```
 
-### 3. Custom handler (`SIGINT`)  
+### 3. Custom handler ([[SIGINT]])  
 ```c
 #include <signal.h>
 #include <unistd.h>
