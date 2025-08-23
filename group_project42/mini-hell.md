@@ -9,4 +9,8 @@ sticker: emoji//1f479
 [[racing conditions  handlers signal  sigaction  process bits between signals]]
 
 [[Introduction to signals]]
+[[SIGINT]]
+[[SIGQUIT]]
+[[SIGCHLD]]
+[[Signal delivery]]
 
