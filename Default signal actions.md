@@ -1,0 +1,5 @@
+### Default actions of signals
+
+Each signal in Unix-like systems has a **default action** defined by the kernel. These actions fall into four main categories: **terminate** the process (e.g., [[SIGINT]]), **stop** it temporarily (`SIGTSTP`), **ignore** the signal ([[SIGCHLD]]), or **terminate and produce a core dump** ([[SIGQUIT]]). If a program does not explicitly handle a signal, the kernel applies this default behavior automatically.
+
+However, in the context of a shell, simply relying on these defaults is not enough. If the shell were to terminate on [[SIGINT]] or [[SIGQUIT]], the user would lose their working session. For this reason, shells override some default actions: the parent shell ignores [[SIGQUIT]] and customizes the response to [[SIGINT]], while still letting child processes inherit the original defaults. This selective override ensures that the shell itself remains stable, while external programs behave exactly as expected.

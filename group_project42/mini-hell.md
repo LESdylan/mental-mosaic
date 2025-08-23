@@ -13,4 +13,8 @@ sticker: emoji//1f479
 [[SIGQUIT]]
 [[SIGCHLD]]
 [[Signal delivery]]
+[[Default signal actions]]
+[[The sigaction function]]
+
+
 
