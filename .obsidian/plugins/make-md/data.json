@@ -39,10 +39,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//cmd",
-    "//Tags",
-    "//projects",
     "/",
-    "//videos"
+    "//videos",
+    "//projects",
+    "//projects/projects/minishell"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -54,6 +54,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
