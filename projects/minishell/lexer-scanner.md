@@ -4,6 +4,10 @@ when building an interpreter, the [[lexer-scanner]] is a critical component that
 
 A lexer takes the raw input of a  [[source code]] - a string of characters - and convert it into a stream of [[lexemes and tokens]] .We need to think of the lexxer as a translator that transforms `human readable code` into a structured format that the interpreter can process further.
 
+> [!NOTE]
+> The lexer is the part of C program that scans the source code, identifies lexemes, and produces tokens ( usign a function like `lexer_next_token` )
+
+
 
     ```bash
 	    x = 42 + 3
