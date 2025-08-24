@@ -10,7 +10,7 @@ In programming land:
 
 
 
-## the interpreter is build from several logic 
+## the interpreter is build from several components
 ![[Interpreter_shelll]]
 
 The interpreter is build from several step : 
