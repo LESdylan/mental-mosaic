@@ -14,4 +14,4 @@ In programming land:
 ![[Interpreter_shelll]]
 
 The interpreter is build from several step : 
-[[lexer / scanner]] -> [[Parser]] -->  [[Semantic analyzer]] --> [[IR / intermediate representation]] --> [[Executor / Runtime]] 
+[[lexer-scanner]] -> [[Parser]] -->  [[Semantic analyzer]] --> [[IR / intermediate representation]] --> [[Executor / Runtime]] 

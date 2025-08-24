@@ -42,7 +42,8 @@
     "/",
     "//videos",
     "//projects",
-    "//projects/projects/minishell"
+    "//projects/projects/minishell",
+    "//lexer "
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
