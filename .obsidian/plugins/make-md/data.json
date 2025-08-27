@@ -38,11 +38,13 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//cmd",
-    "//Tags",
-    "//projects",
     "/",
-    "//videos"
+    "//lexer ",
+    "//pomodoro",
+    "//cmd",
+    "//projects",
+    "//projects/projects/minishell",
+    "//projects/projects/fdf"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -54,6 +56,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
