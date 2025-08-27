@@ -42,7 +42,9 @@
     "//lexer ",
     "//pomodoro",
     "//cmd",
-    "//projects"
+    "//projects",
+    "//projects/projects/minishell",
+    "//projects/projects/fdf"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

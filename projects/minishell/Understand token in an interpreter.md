@@ -1,6 +1,6 @@
 in the process of building an interpreter in C, tokens are the structured units produced by the [[lexer-scanner]]
 that represents the meaningful element of the source code. tokens are the bridge between raw text [[lexemes]]
-and the [[Parser]] . 
+and the [[Parser fdf]] . 
 
 ## What is a token?
 A token is a [[data structure]] that represents a categorized unit of [[source code]] ,  derivedj from a [[lexemes]] 

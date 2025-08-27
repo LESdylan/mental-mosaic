@@ -41,30 +41,182 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Different types of Matrices.md",
+                "file": "Linear algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Different types of Matrices"
+              "title": "Linear algebra"
             }
           },
           {
-            "id": "4d505d1f6fb43047",
+            "id": "f3b6891b6b5e972d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "identity matrix.md",
+                "file": "linear equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "identity matrix"
+              "title": "linear equations"
+            }
+          },
+          {
+            "id": "a238fd7e9d066b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear rate of change.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linear rate of change"
+            }
+          },
+          {
+            "id": "7a0db66f94a3a43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/fdf/fdf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fdf"
+            }
+          },
+          {
+            "id": "9722aad9ff85029e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear algebra"
+            }
+          },
+          {
+            "id": "7394bb2371aaac37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linear equations"
+            }
+          },
+          {
+            "id": "21c13c3f67f41ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/fdf/color brensenham-based drawing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "color brensenham-based drawing"
+            }
+          },
+          {
+            "id": "78b9980fba7e09c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear interpolation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linear interpolation"
+            }
+          },
+          {
+            "id": "f321348b45f616c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clamping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clamping"
+            }
+          },
+          {
+            "id": "bab8901f9a6598ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/minishell/Parser fdf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parser fdf"
+            }
+          },
+          {
+            "id": "aa911897187aba12",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/slope_bresenahm algorithm.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "slope_bresenahm algorithm"
+            }
+          },
+          {
+            "id": "65e4cbe5a20608a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "slope"
+            }
+          },
+          {
+            "id": "b5da1cf560898b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "slope"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -96,7 +248,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "slope",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +270,7 @@
             }
           },
           {
-            "id": "12583c83920521b1",
+            "id": "77d15f49e4b918a5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -127,8 +279,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,7 +391,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 569.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,41 +409,47 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4d505d1f6fb43047",
+  "active": "78b9980fba7e09c5",
   "lastOpenFiles": [
-    "Different types of Matrices.md",
-    "identity matrix.md",
-    "REAL Detection collision time.md",
+    "linear interpolation.md",
+    "projects/fdf/color brensenham-based drawing.md",
+    "Clamping.md",
+    "projects/fdf/dirty flag pattern.md",
+    "projects/fdf/fdf.md",
+    "slope.md",
+    "second-brain.md",
+    "chunk_sort.md",
+    "brensenham line.md",
+    "linear rate of change.md",
+    "linear equations.md",
+    "Linear algebra.md",
+    "projects/minishell/minishell.md",
+    "projects/lightweight framework capturing exceptions in C.md",
     "projects/FDF.md",
+    "projects/minishell/Parser fdf.md",
+    "Pasted image 20250827204148.png",
+    "Excalidraw/slope_bresenahm algorithm.md",
+    "Untitled 3.base",
+    "projects/fdf",
+    "Untitled 2.base",
+    "Pasted image 20250827172621.png",
+    "Different types of Matrices.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Identity and triangular matrices.md",
+    "REAL Detection collision time.md",
     "Untitled 1.md",
     "projects/minishell/lexer-scanner.md",
     "projects/minishell/lexemes.md",
     "projects/minishell/lexemes and tokens.md",
     "projects/minishell/kernel.md",
     "projects/minishell/interpreter.md",
-    "projects/minishell/how to create a structure that can easily extend flags with built-ins commands.md",
-    "projects/minishell/compiler.md",
-    "projects/minishell/builtins vs system command.md",
-    "projects/minishell/Understand token in an interpreter.md",
-    "projects/minishell/Parser.md",
-    "Install vscode.md",
-    "source code.md",
-    "projects/minishell/shell.md",
-    "projects/minishell/minishell.md",
-    "projects/minishell/mini-shell.md",
     "projects/minishell",
-    "literals.md",
-    "data structure.md",
-    "Vault.md",
-    "Excalidraw/lexer.md",
-    "Excalidraw/Interpreter_shelll.md",
-    "Untitled 2.md",
     "Untitled",
     "copilot-custom-prompts",
     "Pasted image 20250729200655.png",
     "Pasted image 20250724133053.png",
     ".md",
-    "projects/Untitled",
     "Pasted image 20250724133817.png",
     "Pasted image 20250724133804.png",
     "Pasted image 20250724133757.png",
@@ -299,11 +457,6 @@
     "Pasted image 20250724133741.png",
     "Pasted image 20250724133407.png",
     "Challenges/coding  games",
-    "Challenges",
-    "videos/test.webp",
-    "videos",
-    "projects",
-    "Tags",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

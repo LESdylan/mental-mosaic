@@ -17,4 +17,4 @@ A matrix is often viewes as consisting of a number of row or column matrices. Ro
 > 
 > For a square matrix, entries for which `i = j` (that is , `a`)
 
-[[identity matrix]]
+[[Identity and triangular matrices]]

@@ -20,7 +20,7 @@ A lexer takes the raw input of a  [[source code]] - a string of characters - and
 
 ## Why is the lexer important ?
 The lexer leverage the role of the first stage in interpretation pipeline, preparing the source code for subsequent stages like parsing and execution. Its role is crcial for the following reasons:
-1. Simplifies Parsing: By converting raw text into tokens, the lexer reduces the complexity of the [[Parser]]'s job The parser works with structured tokens rather than raw characters, making it easier to analyze the code's syntax
+1. Simplifies Parsing: By converting raw text into tokens, the lexer reduces the complexity of the [[Parser fdf]]'s job The parser works with structured tokens rather than raw characters, making it easier to analyze the code's syntax
 2. Handles whitespace and comments: The lexer filters out irrelevan format like `whitespace`, newlines, and comments, ensuring only meaningful tokens reach the parser.ç
 3. Improves Error detection: The lexer can catch basic errors, such as invalid characters or malformed tokesn (an unrecognized  patterns like `#$?`) before the parser processes the input
 ### How  does a  lexer work ?
