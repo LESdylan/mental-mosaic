@@ -38,12 +38,11 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//cmd",
     "/",
-    "//videos",
-    "//projects",
-    "//projects/projects/minishell",
-    "//lexer "
+    "//lexer ",
+    "//pomodoro",
+    "//cmd",
+    "//projects"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

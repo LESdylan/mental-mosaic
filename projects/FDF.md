@@ -4,6 +4,8 @@ banner_y: "31"
 ---
 # PARSER
 
+[[REAL Detection collision time]]
+
 ## 2 pass buffer
 ## chunked buffer size
 Chunked parser  reads data in fixed-size chunks (buffers), processes each chunk, and  handles leftover  data between reads. this is a standard and efficient way to parse large files or streams without loading the entire  content  into memory.
