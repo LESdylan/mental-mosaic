@@ -2,50 +2,21 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "42",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "minitalk",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "push",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.66633528866934,
-  "lineSizeMultiplier": 3.5183513430071,
-  "collapse-forces": false,
-  "centerStrength": 0,
-<<<<<<< HEAD
-  "repelStrength": 13.7509377344336,
-  "linkStrength": 0.792573143285821,
-  "linkDistance": 221,
-  "scale": 1.036735615826705,
-=======
-  "repelStrength": 7.47267675208398,
-  "linkStrength": 0.734375,
-  "linkDistance": 172,
-  "scale": 0.46403524937141516,
->>>>>>> develop
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6666666666666666,
   "close": false
 }

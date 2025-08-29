@@ -4,58 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "28f7121ef8bfcbaf",
+        "id": "2bdf585e003bc055",
         "type": "tabs",
         "children": [
           {
-            "id": "3826d990841fa60e",
+            "id": "e0b58cb47f2cb71e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/FDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FDF"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "1c33f7ec6190ee49",
+            "id": "f3dd403677e6d225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REAL Detection collision time.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REAL Detection collision time"
-            }
-          },
-          {
-            "id": "13b4c985c59c982a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear algebra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear algebra"
-            }
-          },
-          {
-            "id": "f3b6891b6b5e972d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear equations.md",
+                "file": "projects/fdf/linear equations.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,49 +32,20 @@
             }
           },
           {
-            "id": "a238fd7e9d066b4c",
+            "id": "b7834e0510bca002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear rate of change.md",
+                "file": "vertices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linear rate of change"
-            }
-          },
-          {
-            "id": "7a0db66f94a3a43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "data structure"
-            }
-          },
-          {
-            "id": "b5da1cf560898b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slope.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "slope"
+              "title": "vertices"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slope",
+                "query": "matri",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +99,21 @@
             }
           },
           {
-            "id": "77d15f49e4b918a5",
+            "id": "28718236e174ee4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/fdf/Identity and triangular matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identity and triangular matrices"
+            }
+          },
+          {
+            "id": "40e41ce360ba79bc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -173,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.500732421875
   },
   "right": {
     "id": "cd18e6159871c6c8",
@@ -281,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5,
-    "collapsed": true
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,54 +251,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7a0db66f94a3a43f",
+  "active": "e0b58cb47f2cb71e",
   "lastOpenFiles": [
-    "chunk_sort.md",
-    "impots.md",
-    "Install vscode.md",
-    "k_sort.md",
-    "like sockets.md",
-    "Linear algebra.md",
-    "literals.md",
-    "partition_sort.md",
-    "pruning.md",
-    "pivot_sort.md",
-    "pipes PROTOCOL.md",
-    "PUSH_SWAP.md",
-    "queued signals.md",
-    "README.md",
-    "REAL Detection collision time.md",
-    "REAL TIME SIGNALS.md",
-    "REGEXP.md",
-    "second-brain.md",
-    "Smart pointers.md",
-    "sockets signals.md",
-    "source code.md",
-    "struct design In CPP.md",
-    "Vault.md",
-    "Summer  Challenge 2025.md",
-    "Untitled 3.base",
-    "Untitled 2.md",
+    "Math Computer Science/determinant in matrix.md",
+    "projects/fdf/linear equations.md",
+    "vertices.md",
+    "Math Computer Science/operation with matrix.md",
+    "Pasted image 20250829210047.png",
+    "Pasted image 20250829210039.png",
+    "Pasted image 20250829205150.png",
+    "Pasted image 20250829204936.png",
+    "Pasted image 20250829204854.png",
+    "Pasted image 20250829204205.png",
+    "Math Computer Science/matrix.md",
+    "Math Computer Science/point.md",
+    "Untitled 2",
+    "Untitled 1",
+    "projects/fdf/Identity and triangular matrices.md",
+    "Untitled 4.base",
+    "projects/fdf/Different types of Matrices.md",
+    "Math Computer Science/Untitled.md",
+    "Math Computer Science/Math Computer Science.md",
+    "Math Computer Science/polyhedra.md",
+    "Math Computer Science/non-polyhedra.md",
+    "Math Computer Science/euler's formula.md",
+    "Pasted image 20250829202919.png",
+    "Math Computer Science/vertex.md",
+    "dimension.md",
+    "Math Computer Science/plane.md",
+    "Math Computer Science/Area of plane shapes.md",
+    "Math Computer Science/line.md",
+    "projects/FDF.md",
+    "projects/fdf/parse color.md",
+    "projects/fdf/type of variables stdint.md",
+    "matrices.md",
+    "projects/fdf/fdf.md",
+    "Pasted image 20250829201729.png",
+    "Math Computer Science/surface area.md",
+    "Math Computer Science/volume.md",
+    "Math Computer Science/three dimensions.md",
+    "Pasted image 20250729200655.png",
     "Untitled.base",
-    "Untitled.md",
-    "Pasted image 20250827204148.png",
-    "Pasted image 20250827172621.png",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "projects/fdf/Pasted image 20250827204148.png",
     "projects/minishell",
     "projects/fdf",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled",
-    "copilot-custom-prompts",
-    "Pasted image 20250729200655.png",
-    "Pasted image 20250724133053.png",
-    ".md",
-    "Pasted image 20250724133817.png",
-    "Pasted image 20250724133804.png",
-    "Pasted image 20250724133757.png",
-    "Pasted image 20250724133750.png",
-    "Pasted image 20250724133741.png",
-    "Pasted image 20250724133407.png",
-    "Challenges/coding  games",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
